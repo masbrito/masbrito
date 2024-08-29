@@ -1,7 +1,7 @@
 ## Olá, eu sou a Andreia Brito 
 
 - 🔭 Hoje, trabalho em home office.
-- 🌱 Estudando Reactjs
+- 🌱 HTML, CSS, JavaScript, ReactJs
 - 👩‍🎓 Graduada em Sistemas de Informação
 - 👩‍🎓 Pós-graduada em Engenharia de Software
  ##
